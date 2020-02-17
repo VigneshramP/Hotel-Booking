@@ -64,7 +64,8 @@ DATABASES = {
         'NAME': 'hotel',
         'USER':'root',
         'PASSWORD':'root',
-        'HOST':'localhost',
+        'HOST':'192.168.1.44',
+        'PORT':3306
     }
 }
 
