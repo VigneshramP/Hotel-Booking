@@ -1,10 +1,3 @@
-/**
- * Created with JetBrains WebStorm.
- * User: 黄辉泉
- * Date: 13-5-29
- * Time: 下午10:05
- * To change this template use File | Settings | File Templates.
- */
 window.onload = function(){
     var roomTotalHandle = document.getElementById("roomTotal");
     if(roomTotalHandle){
